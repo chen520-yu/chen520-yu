@@ -10,7 +10,7 @@
     
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🎉 I’m interested in things related to:
-    Spring Vue 
+   ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
 

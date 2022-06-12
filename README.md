@@ -10,8 +10,7 @@
     
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🎉 I’m interested in things related to:
-- Spring
-- Vue 
+    Spring Vue 
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
 
